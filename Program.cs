@@ -8,7 +8,6 @@
             Console.WriteLine("Welcome to line comparison computation program");
             //Length.FindLength();
             //EqualityOfLines.TwoLines();
-            //Comparison.linecomparison();
             //Compareto.GreatSmallEqual();
         }
     }
